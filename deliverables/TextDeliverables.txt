@@ -1,0 +1,13 @@
+    <resource>
+        <name>Save-On-Foods Pharmacy UBC</name>
+        <address>5945 Berton Ave, Vancouver, BC V6S</address>
+        <location>
+            <lat>49.254604</lat>
+            <lon>-123.236995</lon>
+        </location>
+        <webaddress>https://www.saveonfoods.com/</webaddress>
+        <phone>604-221-5152</phone>
+        <services>
+            <service>Food</service>
+        </services>
+    </resource>
